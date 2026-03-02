@@ -1,8 +1,8 @@
-// import { useState } from "react";
-// import { motion } from "framer-motion";
-// import { fadeUp, staggerContainer } from "@/animations/variants";
-// import { useScrollReveal } from "@/hooks/useScrollReveal";
-// import { Mail, Phone, Send, MessageCircle } from "lucide-react";
+import { useState } from "react";
+import { motion } from "framer-motion";
+import { fadeUp, staggerContainer } from "@/animations/variants";
+import { useScrollReveal } from "@/hooks/useScrollReveal";
+import { Mail, Phone, Send, MessageCircle } from "lucide-react";
 
 // const ContactSection = () => {
 //   const titleRef = useScrollReveal();
